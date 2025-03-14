@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linkriderwp.github.io/film-premiere/sitemap.xml
