@@ -7,4 +7,5 @@ fetch('https://api.themoviedb.org/3/discover/movie?primary_release_year=2025&api
             movieList += `<div><h3>${movie.title}</h3><p>Release Date: ${movie.release_date}</p></div>`;
         });
         document.getElementById('movie-list').innerHTML = movieList;
+
     });
